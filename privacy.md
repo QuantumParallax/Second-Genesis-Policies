@@ -113,8 +113,8 @@ Second Genesis relies on third-party services to operate.
 
 These services may include:
 
-* Discord: https://discord.com/privacy
-* Ko-Fi: https://more.ko-fi.com/privacy
+* Discord: <https://discord.com/privacy>
+* Ko-Fi: <https://more.ko-fi.com/privacy>
 
 ## 9. International Data Transfers
 
