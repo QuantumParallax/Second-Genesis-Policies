@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** August 16, 2026
+**Last Updated:** August 18, 2026
 
 This Privacy Policy explains how Second Genesis (the "Bot"), operated by the Second Genesis Team ("we", "us", or "our"), collects, uses, stores, and protects information when you use the Bot.
 
@@ -64,7 +64,7 @@ Information may be processed or shared with third-party services when reasonably
 
 * Discord, which provides the platform through which the Bot operates.
 * Our database provider, which stores game and account data.
-* Ko-fi and its payment processing partners, which process memberships and payments.
+* Patreon, which provides the membership platform through which Second Genesis memberships are purchased and managed. Patreon and its payment processing partners process membership payments and may provide us with limited information necessary to administer your membership and provide its associated benefits.
 
 These providers may process information according to their own policies and terms.
 
@@ -114,7 +114,7 @@ Second Genesis relies on third-party services to operate.
 These services may include:
 
 * Discord: <https://discord.com/privacy>
-* Ko-Fi: <https://more.ko-fi.com/privacy>
+* Patreon: <https://privacy.patreon.com/policies/en/>
 
 ## 9. International Data Transfers
 
