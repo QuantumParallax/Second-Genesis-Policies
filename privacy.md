@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** August 18, 2026
+**Last Updated:** August 20, 2026
 
 This Privacy Policy explains how Second Genesis (the "Bot"), operated by the Second Genesis Team ("we", "us", or "our"), collects, uses, stores, and protects information when you use the Bot.
 
@@ -16,7 +16,8 @@ When you interact with the Bot, we may receive information provided by Discord, 
 
 * Your Discord user ID
 * Your Discord username, display name, and avatar
-* Information about your interactions with the Bot
+* Information about your interactions with the Bot and, where necessary for
+Bot functionality, limited information about recent activity within the server
 
 ### Game Data
 
